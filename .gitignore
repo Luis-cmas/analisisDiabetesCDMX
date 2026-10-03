@@ -1,0 +1,13 @@
+
+*.csv
+
+
+!descargas/pobreza_municipal.csv
+
+
+CATALOGOS_DEFUN_2023 (1)
+DESCRIPTOR_CAMPOS_DEFUN_2020
+eda
+graficas
+limpieza/app
+limpieza/modelo
